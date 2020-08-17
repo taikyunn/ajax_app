@@ -1,4 +1,4 @@
-function check() {
+ function check() {
   const posts = document.getElementsByClassName("post");
   postsA = Array.from(posts);
 
