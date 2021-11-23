@@ -58,3 +58,6 @@ gem 'pry-rails'
 group :production do
   gem 'rails_12factor'
 end
+
+gem 'font-awesome-sass', '~> 5.9.0'
+gem 'bootstrap', '~> 4.1.1'
